@@ -1,6 +1,6 @@
 # Страница приветствия
 
-## История обучения
+## История обучения ![](https://upload.wikimedia.org/wikipedia/commons/0/0a/Netology_logo.png)
 
 | № | Модуль курса |
 |---|--------------|
